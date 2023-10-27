@@ -1,18 +1,17 @@
 .crear-button{
-    background-color: green;
-    color: white;
-    border:none;
+  background-color: green;
+  color: white;
+  border:none;
 }
 
-  .btn-imagen{
-    color: black;
-  }
+.btn-imagen{
+  color: black;
+}
 
 .nav-pills {
-    --bs-nav-pills-border-radius: var(--bs-border-radius);
-    --bs-nav-pills-link-active-bg: #0d6efd;
-    --bs-nav-pills-link-active-color: blue;
-  }
-
+  --bs-nav-pills-border-radius: var(--bs-border-radius);
+  --bs-nav-pills-link-active-bg: #0d6efd;
+  --bs-nav-pills-link-active-color: blue;
+}
 
 
